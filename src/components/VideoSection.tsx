@@ -18,7 +18,7 @@ const VideoSection = () => {
               <CardContent className="p-0">
                 <div className="relative aspect-video bg-muted overflow-hidden rounded-lg">
                   <iframe 
-                    src="https://www.youtube.com/embed/UxzJkxQeFS8?autoplay=0&mute=0&controls=1&rel=0&showinfo=0&modestbranding=1&iv_load_policy=3&color=white&disablekb=1&cc_load_policy=0&fs=0"
+                    src="https://www.youtube.com/embed/UxzJkxQeFS8?autoplay=0&mute=0&controls=1&rel=0&showinfo=0&modestbranding=1&iv_load_policy=3&color=white&disablekb=1&cc_load_policy=0"
                     className="w-full h-full border-0"
                     allowFullScreen
                     title="Demonstração do Método V4E"
