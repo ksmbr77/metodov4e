@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { TrendingUp, Users, Award } from "lucide-react";
-import heroImage from "/lovable-uploads/b965b57c-ad60-4ec5-94ef-520b02662b14.png";
+import heroImage from "/lovable-uploads/9d86a4be-6872-4a0f-8b33-9611a49741d0.png";
 
 const HeroSection = () => {
   const scrollToCTA = () => {
