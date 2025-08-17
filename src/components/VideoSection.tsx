@@ -45,7 +45,7 @@ const VideoSection = () => {
               {/* Floating Cards */}
               <div className="absolute -top-2 -right-2 md:-top-4 md:-right-4 bg-card p-3 md:p-4 rounded-lg shadow-elegant animate-fade-in delay-1000 hover:scale-105 transition-transform duration-300">
                 <div className="text-primary font-poppins font-bold text-lg md:text-2xl">R$ 118,5mil</div>
-                <div className="text-muted-foreground font-opensans text-xs md:text-sm">Vendas este mês (do aluno)</div>
+                <div className="text-muted-foreground font-opensans text-xs md:text-sm">Vendas este mês (aluno)</div>
               </div>
               
               <div className="absolute -bottom-2 -left-2 md:-bottom-4 md:-left-4 bg-card p-3 md:p-4 rounded-lg shadow-elegant animate-fade-in delay-1500 hover:scale-105 transition-transform duration-300">
@@ -56,9 +56,6 @@ const VideoSection = () => {
           </div>
           
           <div className="mt-4 text-center">
-            <p className="text-muted-foreground font-opensans text-xs md:text-sm max-w-2xl mx-auto mb-4">
-              Veja como apliquei o Método V4E para sair do zero e chegar aos R$ 147 mil mensais
-            </p>
             <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-3 py-1 rounded-full text-xs">
               60 segundos que podem mudar seu negócio
             </div>
