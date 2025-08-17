@@ -33,7 +33,7 @@ const FAQSection = () => {
     },
     {
       question: "Como funciona o acompanhamento?",
-      answer: "Você terá acesso direto ao Isidório via WhatsApp por 30 dias, 4 encontros ao vivo, grupo VIP exclusivo e análise personalizada da sua loja."
+      answer: "Você terá acesso direto comigo via WhatsApp por 30 dias, 4 encontros ao vivo, grupo VIP exclusivo e análise personalizada da sua loja."
     }
   ];
 

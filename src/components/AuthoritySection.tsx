@@ -75,11 +75,10 @@ const AuthoritySection = () => {
               Isidório Júnior
             </h3>
             <p className="font-opensans text-primary font-semibold mb-4">
-              Top Seller Shopee & Mentor de E-commerce
+              Empresário & Mentor de E-commerce
             </p>
             <p className="font-opensans text-muted-foreground leading-relaxed mb-6">
-              Especialista em e-commerce com foco nos nichos de confecções, cama, mesa e banho. 
-              Transformo lojas digitais em negócios de alto faturamento através do Método V4E.
+              Empresário no ramo de confecções, especialista em e-commerce com mais de 5 anos transformando lojas em negócios sólidos e lucrativos através da metodologia V4E (criada por nossa equipe).
             </p>
             <Button 
               onClick={scrollToCTA}

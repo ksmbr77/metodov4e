@@ -34,7 +34,7 @@ const VideoSection = () => {
               <div className="relative rounded-2xl overflow-hidden shadow-elegant">
                 <img 
                   src="/lovable-uploads/9d86a4be-6872-4a0f-8b33-9611a49741d0.png" 
-                  alt="Dashboard de vendas com resultados mensais de R$ 118,5mil"
+                  alt="Dashboard de vendas com resultados mensais de R$ 118,5mil do aluno"
                   className="w-full h-auto object-cover"
                   loading="lazy"
                   decoding="async"
@@ -45,7 +45,7 @@ const VideoSection = () => {
               {/* Floating Cards */}
               <div className="absolute -top-2 -right-2 md:-top-4 md:-right-4 bg-card p-3 md:p-4 rounded-lg shadow-elegant animate-fade-in delay-1000 hover:scale-105 transition-transform duration-300">
                 <div className="text-primary font-poppins font-bold text-lg md:text-2xl">R$ 118,5mil</div>
-                <div className="text-muted-foreground font-opensans text-xs md:text-sm">Vendas este mês</div>
+                <div className="text-muted-foreground font-opensans text-xs md:text-sm">Vendas este mês (do aluno)</div>
               </div>
               
               <div className="absolute -bottom-2 -left-2 md:-bottom-4 md:-left-4 bg-card p-3 md:p-4 rounded-lg shadow-elegant animate-fade-in delay-1500 hover:scale-105 transition-transform duration-300">
