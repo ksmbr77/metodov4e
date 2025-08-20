@@ -32,12 +32,12 @@ const Footer = () => {
             <div className="flex items-center justify-center gap-3">
               <MessageCircle className="w-4 h-4 text-primary" />
               <a 
-                href="https://wa.me/5579990669680"
+                href="https://wa.link/a8m8yr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-opensans text-primary-foreground/90 hover:text-primary transition-colors"
               >
-                WhatsApp: +55 79 9906-9680
+                WhatsApp
               </a>
             </div>
             <div className="flex items-center justify-center gap-3">

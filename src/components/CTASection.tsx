@@ -20,7 +20,7 @@ const CTASection = () => {
   ];
 
   const handleCTAClick = () => {
-    window.open("https://wa.me/5579990669680?text=Oi%20Isidório,%20quero%20entender%20como%20funciona%20a%20mentoria%20para%20o%20meu%20negócio", "_blank");
+    window.open("https://wa.link/a8m8yr", "_blank");
   };
 
   return (

@@ -28,7 +28,7 @@ Minhas informações:
 Gostaria de agendar uma conversa para entender melhor como posso crescer na Shopee.`;
 
     const encodedMessage = encodeURIComponent(message);
-    window.open(`https://wa.me/5579990669680?text=${encodedMessage}`, "_blank");
+    window.open(`https://wa.link/a8m8yr`, "_blank");
   };
 
   return (
