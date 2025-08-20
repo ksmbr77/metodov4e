@@ -14,34 +14,34 @@ const ResultsSection = () => {
 
   const results = [
     {
-      name: "Fernanda Lima",
-      category: "Moda Feminina",
-      before: "R$ 2.800/mês",
-      after: "R$ 18.500/mês",
-      increase: "+561%",
-      time: "3 meses",
-      photo: "FL",
-      testimonial: "A mentoria me ensinou técnicas que eu nunca imaginei. Hoje sou Top 5 na minha categoria!"
-    },
-    {
-      name: "Roberto Costa",
-      category: "Eletrônicos", 
-      before: "R$ 5.200/mês",
-      after: "R$ 34.700/mês",
-      increase: "+567%",
+      name: "Marcos",
+      category: "Confecções",
+      before: "R$ 3.000/mês",
+      after: "R$ 16.000/mês",
+      increase: "+433%",
       time: "2 meses",
-      photo: "RC",
-      testimonial: "Em apenas 2 meses consegui resultados que nunca pensei ser possível. Método incrível!"
+      photo: "MC",
+      testimonial: "Em 2 meses com a mentoria, minha loja saiu de R$ 3.000 para R$ 16.000 mensais"
     },
     {
-      name: "Mariana Santos",
-      category: "Casa & Decoração",
+      name: "José Demes",
+      category: "Confecções", 
       before: "R$ 0/mês",
-      after: "R$ 22.100/mês",
+      after: "R$ 32.000/mês",
       increase: "Do zero",
-      time: "4 meses",
-      photo: "MS",
-      testimonial: "Comecei do absoluto zero e hoje tenho uma loja de sucesso. Gratidão eterna!"
+      time: "3 meses",
+      photo: "JD",
+      testimonial: "Nunca imaginei que conseguiria esse resultado tão rápido, método incrivel de 0 a R$ 32.000 no mês"
+    },
+    {
+      name: "Ana Costa",
+      category: "Confecções",
+      before: "R$ 2.500/mês",
+      after: "R$ 18.500/mês",
+      increase: "+640%",
+      time: "3 meses",
+      photo: "AC",
+      testimonial: "Hoje minha loja está entre as mais vendidas da minha categoria na Shopee"
     }
   ];
 
