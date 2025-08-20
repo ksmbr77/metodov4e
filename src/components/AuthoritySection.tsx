@@ -21,15 +21,15 @@ const AuthoritySection = () => {
 
   const testimonials = [
     {
-      name: "Maria Silva",
+      name: "Marcos",
       result: "Aumentei 450% as vendas",
-      text: "Em 2 meses com a mentoria, minha loja saiu de R$ 3 mil para R$ 16 mil mensais!",
+      text: "Em 2 meses com a mentoria, minha loja saiu de R$ 3.000 para R$ 16.000 mensais",
       rating: 5
     },
     {
-      name: "João Santos", 
-      result: "De zero a R$ 25 mil/mês",
-      text: "Nunca imaginei que conseguiria esses resultados tão rápido. Método incrível!",
+      name: "José Demes", 
+      result: "De zero a R$ 32 mil/mês",
+      text: "Nunca imaginei que conseguiria esse resultado tão rápido, método incrivel de 0 a R$ 32.000 no mês",
       rating: 5
     },
     {
