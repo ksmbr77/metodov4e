@@ -57,7 +57,7 @@ const Header = () => {
         {/* Desktop CTA and Social */}
         <div className="hidden sm:flex items-center space-x-4">
           <a 
-            href="https://www.instagram.com/isidorio.junior.3" 
+            href="https://www.instagram.com/isidorio_shopee" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-primary-foreground hover:text-primary transition-colors duration-200"
@@ -97,13 +97,13 @@ const Header = () => {
               
               <div className="pt-4 border-t border-primary-foreground/20 space-y-4">
                 <a 
-                  href="https://www.instagram.com/isidorio.junior.3" 
+                  href="https://www.instagram.com/isidorio_shopee" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-primary-foreground hover:text-primary transition-colors duration-200"
                 >
                   <Instagram className="w-5 h-5" />
-                  <span>@isidorio.junior.3</span>
+                  <span>@isidorio_shopee</span>
                 </a>
                 <Button 
                   onClick={() => scrollToSection("cta-final")}
