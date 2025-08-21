@@ -51,7 +51,7 @@ const AuthoritySection = () => {
             Quem vai te guiar para o sucesso
           </h2>
           <p className="font-opensans text-lg text-muted-foreground max-w-2xl mx-auto">
-            Especialista em e-commerce com mais de 5 anos transformando lojas em negócios milionários
+            Especialista em e-commerce com mais de 5 anos transformando lojas em negócios sólidos e lucrativos
           </p>
         </div>
 
