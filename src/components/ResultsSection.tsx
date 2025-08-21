@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { TrendingUp, Award, Users, DollarSign, ArrowRight } from "lucide-react";
-import resultsImage from "@/assets/results-dashboard.jpg";
+
 
 const ResultsSection = () => {
   const scrollToCTA = () => {
@@ -146,33 +146,6 @@ const ResultsSection = () => {
           ))}
         </div>
 
-        {/* Dashboard Image */}
-        <div className="text-center animate-slide-up">
-          <h3 className="font-poppins font-bold text-2xl text-primary-foreground mb-8">
-            Dashboard Real de Resultados
-          </h3>
-          <div className="relative max-w-4xl mx-auto">
-            <img 
-              src={resultsImage}
-              alt="Dashboard com resultados reais de vendas"
-              className="w-full rounded-2xl shadow-2xl"
-              loading="lazy"
-              decoding="async"
-            />
-            <div className="absolute inset-0 bg-gradient-to-t from-secondary/20 to-transparent rounded-2xl"></div>
-          </div>
-          <p className="font-opensans text-primary-foreground/80 mt-6 max-w-2xl mx-auto mb-6">
-            Estes são prints reais de dashboards dos nossos alunos. 
-            <strong className="text-primary"> Seus resultados podem ser os próximos!</strong>
-          </p>
-          <Button 
-            onClick={scrollToCTA}
-            size="lg"
-            className="bg-primary hover:bg-primary-hover text-primary-foreground font-poppins font-semibold md:hidden w-full max-w-md mx-auto"
-          >
-            Quero Esses Resultados <ArrowRight className="w-4 h-4 ml-2" />
-          </Button>
-        </div>
       </div>
     </section>
   );
